@@ -3,7 +3,7 @@
 Plugin Name: Connections čeština
 Plugin URI: http://wpguru.eu
 Description: Přeloží plugin Connections.
-Version: 1.0
+Version: 1.1
 Author: Expres-Web.cz
 Author URI: http://www.expres-web.cz
 Text Domain: cpc
